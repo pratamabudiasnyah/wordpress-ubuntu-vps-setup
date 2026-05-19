@@ -22,7 +22,7 @@ Proyek ini dikerjakan sebagai bagian dari **Uji Kompetensi Keahlian (UKK)** prog
 | Database | MySQL 8.0.44 |
 | CMS | WordPress (latest) |
 | Editor Konfigurasi | GNU Nano 7.2 / VS Code |
-| IP Server | 192.168.x.x (Local Network) |
+| IP Server | 192.168.x.x |
 
 ---
 
@@ -88,8 +88,8 @@ define('DB_HOST', 'localhost');
 define('DB_CHARSET', 'utf8mb4');
 
 // URL Konfigurasi
-define('WP_HOME', 'http://192.168.110.104');
-define('WP_SITEURL', 'http://192.168.110.104');
+define('WP_HOME', 'http://192.168.*.*');
+define('WP_SITEURL', 'http://192.168.*.*');
 ```
 
 ---
