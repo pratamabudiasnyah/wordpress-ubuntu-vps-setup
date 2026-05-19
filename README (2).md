@@ -139,7 +139,7 @@ Website **Toko Raditya** berhasil di-deploy dengan fitur:
 
 | Download WordPress | WordPress Admin |
 |---|---|
-| ![Download](screenshots/wget-wordpress.png) | ![Admin](screenshots/wp-admin-dashboard.png) |
+| ![Download](screenshots/wget-wordpres.png) | ![Admin](screenshots/wp-admin-dashboard.png) |
 
 ---
 
